@@ -1,0 +1,30 @@
+[
+  {
+    "dllpath": "Pandaros.ZombieWarfare.dll",
+    "name": "Pandaros.ZombieWarfare",
+    "namepretty": "Pandaros' Zombie Warfare!",
+    "version": "0.1.0.0",
+    "enabled": true,
+    "marksgamemodded": true,
+    "compatibleversions": [
+      "0.7.1"
+    ],
+    "jsonFiles": [
+      {
+        "fileType": "addOrOverrideLocalization",
+        "relativePath": "localization/en-US/en-US.json",
+        "index": -99999
+      }
+    ],
+    "website": "https://github.com/JBurlison/Pandaros.ZombieWarfare/wiki",
+    "about": "Pandaros' Zombie Warfare allows you to enguage in PVP battle by sending and upgrading zombies against rival colonies",
+    "patchnotes": [
+      {
+        "version": "0.1.0.0",
+        "notes": [
+          "Initial Release"
+        ]
+      }
+    ]
+  }
+]

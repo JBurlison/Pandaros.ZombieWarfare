@@ -1,0 +1,23 @@
+{
+  "sentences": {
+    "Pandaros": {
+      "ZombieWarfare": {
+        "Weapon": {
+          "Broke": "Your {0} has broke!"
+        },
+        "inventory": {
+          "PlayerNumberPlaced": "Placed by you"
+        },
+        "colonytool": {
+          "TimeToLeave": "Time To Leave"
+        }
+      }
+    }
+  },
+  "types": {
+    "Pandaros.ZombieWarfare.ColonyManagementTool": "Colony Management Tool"
+  },
+  "typeuses": {
+    "Pandaros.ZombieWarfare.ColonyManagementTool": "To use: place it on your toolbar and right click. The management tool is used to help recruit colonists and assign them directly to the jobs you want. It also shows job stats."
+  }
+}
